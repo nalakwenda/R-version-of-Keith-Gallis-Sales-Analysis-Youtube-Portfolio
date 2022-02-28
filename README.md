@@ -1,9 +1,9 @@
 
-##Tools
+## Tools
 Jupyter Notebook
 
 
-##Libraraies Used 
+## Libraraies Used 
 dplyr, lubridate and ggplot
 
 ## Background Information:
